@@ -11,6 +11,7 @@ Here I post my daily LeetCode Solved solutions
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -77,6 +78,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3340-check-balanced-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3340-check-balanced-string) |
 ## Bit Manipulation
 |  |
