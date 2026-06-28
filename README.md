@@ -12,6 +12,7 @@ Here I post my daily LeetCode Solved solutions
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -89,6 +90,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +108,8 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
