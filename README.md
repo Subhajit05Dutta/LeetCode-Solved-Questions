@@ -13,6 +13,7 @@ Here I post my daily LeetCode Solved solutions
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -85,6 +86,7 @@ Here I post my daily LeetCode Solved solutions
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3340-check-balanced-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3340-check-balanced-string) |
 ## Bit Manipulation
 |  |
