@@ -127,4 +127,8 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
