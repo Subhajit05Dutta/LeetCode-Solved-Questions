@@ -24,6 +24,7 @@ Here I post my daily LeetCode Solved solutions
 | [0001-two-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -85,6 +86,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2785-sort-vowels-in-a-string) |
@@ -135,4 +137,8 @@ Here I post my daily LeetCode Solved solutions
 | [0584-find-customer-referee](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
