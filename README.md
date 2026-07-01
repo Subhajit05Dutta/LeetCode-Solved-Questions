@@ -14,6 +14,7 @@ Here I post my daily LeetCode Solved solutions
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -95,6 +96,7 @@ Here I post my daily LeetCode Solved solutions
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3340-check-balanced-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3340-check-balanced-string) |
@@ -114,6 +116,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
