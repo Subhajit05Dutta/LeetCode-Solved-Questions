@@ -198,6 +198,7 @@ Here I post my daily LeetCode Solved solutions
 | [0620-not-boring-movies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1148-article-views-i) |
+| [1407-top-travellers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1407-top-travellers) |
 | [1683-invalid-tweets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
