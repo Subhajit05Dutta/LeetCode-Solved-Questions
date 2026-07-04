@@ -51,6 +51,7 @@ Here I post my daily LeetCode Solved solutions
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Here I post my daily LeetCode Solved solutions
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -75,12 +77,14 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Math
