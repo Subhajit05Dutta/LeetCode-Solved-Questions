@@ -14,6 +14,7 @@ Here I post my daily LeetCode Solved solutions
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
@@ -179,6 +180,7 @@ Here I post my daily LeetCode Solved solutions
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -211,6 +213,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
+| [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
@@ -218,6 +221,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
