@@ -333,5 +333,6 @@ Here I post my daily LeetCode Solved solutions
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
