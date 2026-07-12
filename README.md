@@ -28,6 +28,7 @@ Here I post my daily LeetCode Solved solutions
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -64,6 +65,7 @@ Here I post my daily LeetCode Solved solutions
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -212,6 +214,7 @@ Here I post my daily LeetCode Solved solutions
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2785-sort-vowels-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2785-sort-vowels-in-a-string) |
