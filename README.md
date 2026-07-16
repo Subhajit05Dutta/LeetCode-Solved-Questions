@@ -53,6 +53,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
@@ -228,6 +229,7 @@ Here I post my daily LeetCode Solved solutions
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -347,6 +349,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
