@@ -86,6 +86,7 @@ Here I post my daily LeetCode Solved solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -327,10 +328,12 @@ Here I post my daily LeetCode Solved solutions
 ## Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Dynamic Programming
 |  |
