@@ -59,6 +59,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
@@ -144,6 +145,7 @@ Here I post my daily LeetCode Solved solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0593-valid-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0593-valid-square) |
 | [1154-day-of-the-year](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1175-prime-arrangements) |
@@ -200,6 +202,7 @@ Here I post my daily LeetCode Solved solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
