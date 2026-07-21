@@ -101,6 +101,7 @@ Here I post my daily LeetCode Solved solutions
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
@@ -374,6 +375,7 @@ Here I post my daily LeetCode Solved solutions
 | [0226-invert-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -387,6 +389,7 @@ Here I post my daily LeetCode Solved solutions
 | [0226-invert-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Dynamic Programming
 |  |
