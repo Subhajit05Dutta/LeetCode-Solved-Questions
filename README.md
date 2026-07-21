@@ -93,6 +93,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -108,6 +109,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
@@ -361,6 +363,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -371,6 +374,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
