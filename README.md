@@ -57,6 +57,7 @@ Here I post my daily LeetCode Solved solutions
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ Here I post my daily LeetCode Solved solutions
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
@@ -282,6 +284,7 @@ Here I post my daily LeetCode Solved solutions
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2785-sort-vowels-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
