@@ -106,6 +106,7 @@ Here I post my daily LeetCode Solved solutions
 | [0110-balanced-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
@@ -390,6 +391,7 @@ Here I post my daily LeetCode Solved solutions
 | [0110-balanced-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -405,6 +407,7 @@ Here I post my daily LeetCode Solved solutions
 | [0110-balanced-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
