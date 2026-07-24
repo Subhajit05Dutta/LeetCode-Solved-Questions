@@ -398,6 +398,7 @@ Here I post my daily LeetCode Solved solutions
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -415,6 +416,7 @@ Here I post my daily LeetCode Solved solutions
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 ## Dynamic Programming
@@ -484,6 +486,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
