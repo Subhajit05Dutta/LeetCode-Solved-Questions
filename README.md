@@ -20,6 +20,7 @@ Here I post my daily LeetCode Solved solutions
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
