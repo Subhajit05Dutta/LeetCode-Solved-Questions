@@ -13,6 +13,7 @@ Here I post my daily LeetCode Solved solutions
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
@@ -72,6 +73,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0001-two-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
@@ -158,6 +160,7 @@ Here I post my daily LeetCode Solved solutions
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
