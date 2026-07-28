@@ -10,6 +10,7 @@ Here I post my daily LeetCode Solved solutions
 | [0014-longest-common-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
@@ -202,6 +203,7 @@ Here I post my daily LeetCode Solved solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -444,6 +446,7 @@ Here I post my daily LeetCode Solved solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
