@@ -1,7 +1,17 @@
 class Solution {
 public:
-    int minimumPushes(string A) {
-         auto q = A.size() >> 3, r = A.size() & 7;
-        return ((q << 2) + r) * (q + 1);
+    int minimumPushes(string word) {
+         vector<int>freq(26,0);
+         for(char ch : word){
+            freq[ch-'a']++;
+         }
+
+         sort(freq.rbegin(),freq.rend());
+
+         int push=0;
+         for(int i=0;i<26;i++){
+            push+=freq[i]*(i/8+1);
+         }
+         return push;
     }
 };
