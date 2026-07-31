@@ -417,6 +417,7 @@ Here I post my daily LeetCode Solved solutions
 | [0620-not-boring-movies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1148-article-views-i) |
+| [1280-students-and-examinations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1407-top-travellers) |
 | [1661-average-time-of-process-per-machine](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1683-invalid-tweets) |
