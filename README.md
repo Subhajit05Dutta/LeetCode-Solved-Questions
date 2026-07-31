@@ -113,6 +113,7 @@ Here I post my daily LeetCode Solved solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -434,6 +435,7 @@ Here I post my daily LeetCode Solved solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -453,6 +455,7 @@ Here I post my daily LeetCode Solved solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -531,6 +534,7 @@ Here I post my daily LeetCode Solved solutions
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
