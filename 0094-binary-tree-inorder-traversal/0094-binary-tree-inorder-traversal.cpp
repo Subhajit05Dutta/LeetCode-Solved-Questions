@@ -12,29 +12,9 @@
  */
 class Solution {
 public:
-    void Inorder(TreeNode* root,vector<int>&inorder){
-        if(root==NULL){
-            return;
-        }
-        Inorder(root->left,inorder);
-        inorder.push_back(root->val);
-        Inorder(root->right,inorder);
-        return;
-    }
-    vector<int> inorderTraversal(TreeNode* root) {
-        vector<int>inorder;
-        if(root==NULL){
-            return inorder;
-        }
-        Inorder(root,inorder);
-        return inorder;
-    }
-};
+    // Recursive Approach
 
-/*
- //Recursive Approach
-
- void Inorder_traversal(TreeNode* root, vector<int>& inorder) {
+    void Inorder_traversal(TreeNode* root, vector<int>& inorder) {
         if (root == NULL) {
             return;
         }
@@ -47,4 +27,31 @@ public:
         Inorder_traversal(root, inorder);
         return inorder;
     }
+};
+
+/*
+   vector<int> inorderTraversal(TreeNode* root) {
+       vector<int> inorder;
+       if (root == NULL) {
+           return inorder;
+       }
+       stack<TreeNode*> st;
+       TreeNode* node = root;
+       while (true) {
+           if (node != NULL) {
+               st.push(node);
+               node = node->left;
+           } else {
+               if (st.empty() == true) {
+                   break;
+               }
+               node = st.top();
+               st.pop();
+               inorder.push_back(node->val);
+               node = node->right;
+           }
+       }
+       return inorder;
+   }
+};
 */
