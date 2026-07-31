@@ -418,6 +418,7 @@ Here I post my daily LeetCode Solved solutions
 | [1068-product-sales-analysis-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1148-article-views-i) |
 | [1407-top-travellers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1407-top-travellers) |
+| [1661-average-time-of-process-per-machine](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
