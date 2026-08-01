@@ -13,15 +13,17 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(p==NULL &&q==NULL){
+        if (p == NULL && q == NULL) {
             return true;
-        }
-        else if(p==NULL ||q==NULL){
+        } else if (p == NULL || q == NULL) {
             return false;
+        } else if (p->val != q->val) {
+            return false;
+        } else if (p->val == q->val) {
+            bool ans1 = isSameTree(p->left, q->left);
+            bool ans2 = isSameTree(p->right, q->right);
+             return ans1 && ans2;
         }
-        else if(p->val==q->val){
-            return (isSameTree(p->left,q->left) && isSameTree(p->right,q->right));
-        }
-        return false;
+       return true;
     }
 };
