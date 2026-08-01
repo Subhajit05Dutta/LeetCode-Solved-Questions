@@ -21,7 +21,7 @@ public:
             self = 1;
         }
         int total = left + right + self;
-        if (total == 2 && ans == NULL) {
+        if (ans == NULL && total == 2) {
             ans = node;
         }
         return total;
