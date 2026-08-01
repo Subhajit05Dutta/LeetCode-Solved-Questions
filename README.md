@@ -275,6 +275,7 @@ Here I post my daily LeetCode Solved solutions
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
@@ -352,6 +353,7 @@ Here I post my daily LeetCode Solved solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0917-reverse-only-letters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -495,6 +497,7 @@ Here I post my daily LeetCode Solved solutions
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
