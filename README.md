@@ -9,6 +9,7 @@ Here I post my daily LeetCode Solved solutions
 | [0001-two-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0040-combination-sum-ii) |
@@ -323,6 +324,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
@@ -353,6 +355,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
