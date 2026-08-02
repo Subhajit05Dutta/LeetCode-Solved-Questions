@@ -11,6 +11,7 @@ Here I post my daily LeetCode Solved solutions
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
@@ -358,6 +359,7 @@ Here I post my daily LeetCode Solved solutions
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
