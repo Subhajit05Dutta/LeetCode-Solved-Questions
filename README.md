@@ -33,6 +33,7 @@ Here I post my daily LeetCode Solved solutions
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
+| [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -202,6 +203,7 @@ Here I post my daily LeetCode Solved solutions
 | [0509-fibonacci-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1185-day-of-the-week) |
@@ -508,6 +510,7 @@ Here I post my daily LeetCode Solved solutions
 | [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
@@ -602,4 +605,5 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
