@@ -2,6 +2,9 @@ class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
         int n = fruits.size();
+        if (n == 0) {
+            return 0;
+        }
         int l = 0, h = 0;
         int maximum = 0;
         unordered_map<int, int> mpp;
@@ -19,7 +22,7 @@ public:
             }
             h++;
         }
-        if(mpp.size()<2){
+        if (mpp.size() < 2) {
             return mpp[fruits[l]];
         }
         return maximum;
