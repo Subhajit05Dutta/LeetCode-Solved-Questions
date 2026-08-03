@@ -22,6 +22,7 @@ Here I post my daily LeetCode Solved solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -270,6 +271,7 @@ Here I post my daily LeetCode Solved solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -388,6 +390,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -468,6 +471,7 @@ Here I post my daily LeetCode Solved solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Ordered Set
