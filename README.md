@@ -44,6 +44,7 @@ Here I post my daily LeetCode Solved solutions
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1260-shift-2d-grid) |
@@ -277,6 +278,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -400,6 +402,7 @@ Here I post my daily LeetCode Solved solutions
 | [0278-first-bad-version](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -482,6 +485,7 @@ Here I post my daily LeetCode Solved solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Ordered Set
 |  |
