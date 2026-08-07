@@ -242,6 +242,7 @@ Here I post my daily LeetCode Solved solutions
 | [3099-harshad-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3099-harshad-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -338,6 +339,7 @@ Here I post my daily LeetCode Solved solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3340-check-balanced-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3340-check-balanced-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -458,6 +460,7 @@ Here I post my daily LeetCode Solved solutions
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -622,6 +625,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -667,6 +671,7 @@ Here I post my daily LeetCode Solved solutions
 | [0039-combination-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
