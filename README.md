@@ -32,6 +32,7 @@ Here I post my daily LeetCode Solved solutions
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
@@ -377,6 +378,7 @@ Here I post my daily LeetCode Solved solutions
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -412,6 +414,7 @@ Here I post my daily LeetCode Solved solutions
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
@@ -466,6 +469,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
@@ -711,4 +715,8 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
