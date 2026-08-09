@@ -51,6 +51,7 @@ Here I post my daily LeetCode Solved solutions
 | [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
@@ -120,6 +121,7 @@ Here I post my daily LeetCode Solved solutions
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
@@ -721,4 +723,8 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
