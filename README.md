@@ -34,6 +34,7 @@ Here I post my daily LeetCode Solved solutions
 | [0485-max-consecutive-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -432,6 +433,7 @@ Here I post my daily LeetCode Solved solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
