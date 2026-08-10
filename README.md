@@ -247,6 +247,7 @@ Here I post my daily LeetCode Solved solutions
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2652-sum-multiples) |
@@ -605,6 +606,7 @@ Here I post my daily LeetCode Solved solutions
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
@@ -707,6 +709,7 @@ Here I post my daily LeetCode Solved solutions
 | [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 ## Interactive
 |  |
 | ------- |
@@ -716,11 +719,13 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 ## Quicksort
 |  |
 | ------- |
@@ -729,4 +734,12 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
