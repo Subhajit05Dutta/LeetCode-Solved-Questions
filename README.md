@@ -48,6 +48,7 @@ Here I post my daily LeetCode Solved solutions
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0860-lemonade-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
@@ -448,6 +449,7 @@ Here I post my daily LeetCode Solved solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
