@@ -52,6 +52,7 @@ Here I post my daily LeetCode Solved solutions
 | [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
@@ -124,6 +125,7 @@ Here I post my daily LeetCode Solved solutions
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
@@ -242,6 +244,7 @@ Here I post my daily LeetCode Solved solutions
 | [0593-valid-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1175-prime-arrangements) |
@@ -293,6 +296,7 @@ Here I post my daily LeetCode Solved solutions
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
@@ -661,6 +665,7 @@ Here I post my daily LeetCode Solved solutions
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -755,4 +760,12 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
