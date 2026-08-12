@@ -18,6 +18,7 @@ Here I post my daily LeetCode Solved solutions
 | [0039-combination-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -486,6 +487,7 @@ Here I post my daily LeetCode Solved solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
@@ -611,6 +613,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
