@@ -376,6 +376,7 @@ Here I post my daily LeetCode Solved solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
