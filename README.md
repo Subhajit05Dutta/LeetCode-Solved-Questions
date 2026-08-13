@@ -23,6 +23,7 @@ Here I post my daily LeetCode Solved solutions
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0162-find-peak-element) |
@@ -502,6 +503,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0045-jump-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
