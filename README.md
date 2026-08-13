@@ -20,6 +20,7 @@ Here I post my daily LeetCode Solved solutions
 | [0045-jump-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -396,6 +397,7 @@ Here I post my daily LeetCode Solved solutions
 | [0015-3sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
@@ -768,6 +770,7 @@ Here I post my daily LeetCode Solved solutions
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 ## Pigeonhole Principle
 |  |
