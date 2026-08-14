@@ -123,6 +123,7 @@ Here I post my daily LeetCode Solved solutions
 | [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
@@ -344,6 +345,7 @@ Here I post my daily LeetCode Solved solutions
 | [0058-length-of-last-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
