@@ -82,6 +82,7 @@ Here I post my daily LeetCode Solved solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1652-defuse-the-bomb](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -595,6 +596,7 @@ Here I post my daily LeetCode Solved solutions
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
