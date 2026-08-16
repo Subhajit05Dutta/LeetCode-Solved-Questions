@@ -377,6 +377,7 @@ Here I post my daily LeetCode Solved solutions
 | [1154-day-of-the-year](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1154-day-of-the-year) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -737,6 +738,7 @@ Here I post my daily LeetCode Solved solutions
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -821,6 +823,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Euclidean Algorithm
 |  |
 | ------- |
