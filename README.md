@@ -265,6 +265,7 @@ Here I post my daily LeetCode Solved solutions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
@@ -728,6 +729,7 @@ Here I post my daily LeetCode Solved solutions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -789,6 +791,7 @@ Here I post my daily LeetCode Solved solutions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
