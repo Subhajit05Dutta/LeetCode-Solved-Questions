@@ -9,7 +9,7 @@ public:
             } else {
                 cnt++;
                 ans = (ans - 1) / 2;
-                ;
+                
             }
         }
         return cnt;
