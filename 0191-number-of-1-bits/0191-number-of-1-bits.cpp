@@ -3,6 +3,18 @@ public:
     int hammingWeight(int n) {
         int cnt = 0;
         while (n > 0) {
+            cnt++;
+            n = (n & (n - 1));
+        }
+        return cnt;
+    }
+};
+
+/*
+    //Alternative Approach
+    int hammingWeight(int n) {
+        int cnt = 0;
+        while (n > 0) {
             int rem = n % 2;
             if (rem == 1) {
                 cnt++;
@@ -11,4 +23,4 @@ public:
         }
         return cnt;
     }
-};
+*/
