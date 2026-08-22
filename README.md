@@ -23,6 +23,7 @@ Here I post my daily LeetCode Solved solutions
 | [0056-merge-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0135-candy) |
@@ -426,6 +427,7 @@ Here I post my daily LeetCode Solved solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -827,6 +829,7 @@ Here I post my daily LeetCode Solved solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
