@@ -1,33 +1,35 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    void fun(vector<int>& candidates, int target, int idx, int n, int sum,
-             vector<int>& temp) {
-        if (sum == target) {
-            ans.push_back(temp);
-            return;
-        }
-        if (idx == n || sum > target) {
+    void fun(vector<int>& candidates, int target, int i, int n,
+             vector<int>& list, vector<vector<int>>& ans) {
+        if (i == n) {
+            if (target == 0) {
+                ans.push_back(list);
+            }
             return;
         }
         // Take
-        temp.push_back(candidates[idx]);
-        fun(candidates, target, idx + 1, n, sum+candidates[idx], temp);
-        temp.pop_back();
-
-        // Not Take (Skip  Duplicates)
-        int i = idx;
-        while (i + 1 < n && candidates[i] == candidates[i + 1]) {
-            i++;
+        if (candidates[i] <= target) {
+            list.push_back(candidates[i]);
+            fun(candidates, target - candidates[i], i + 1, n, list, ans);
+            list.pop_back();
         }
-        fun(candidates, target, i + 1, n, sum, temp);
+        int next = i + 1;
+        while (next < n && candidates[i] == candidates[next]) {
+            next++;
+        }
+
+        // Not Take
+        fun(candidates, target, next, n, list, ans);
+
         return;
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        int n = candidates.size();
         sort(candidates.begin(), candidates.end());
-        vector<int> temp;
-        fun(candidates, target, 0, n, 0, temp);
+        vector<int> list;
+        vector<vector<int>> ans;
+        int n = candidates.size();
+        fun(candidates, target, 0, n, list, ans);
         return ans;
     }
 };
