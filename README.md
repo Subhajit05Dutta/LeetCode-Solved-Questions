@@ -62,6 +62,7 @@ Here I post my daily LeetCode Solved solutions
 | [0896-monotonic-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
@@ -154,6 +155,7 @@ Here I post my daily LeetCode Solved solutions
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
@@ -361,6 +363,7 @@ Here I post my daily LeetCode Solved solutions
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -638,6 +641,7 @@ Here I post my daily LeetCode Solved solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
