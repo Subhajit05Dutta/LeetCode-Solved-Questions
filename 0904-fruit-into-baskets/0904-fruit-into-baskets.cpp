@@ -1,30 +1,30 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
-        int n = fruits.size();
-        if (n == 0) {
-            return 0;
+    int freq(unordered_map<int,int>&mpp){
+        int total=0;
+        for(auto &it:mpp){
+            total+=it.second;
         }
-        int l = 0, h = 0;
-        int maximum = 0;
-        unordered_map<int, int> mpp;
-        while (h < n) {
-            mpp[fruits[h]]++;
-            while (mpp.size() > 2) {
+        return total;
+    }
+    int totalFruit(vector<int>& fruits) {
+        unordered_map<int,int>mpp;
+        int n=fruits.size();
+        int l=0,r=0;
+        int cnt=0,maxcnt=0;
+        while(r<n){
+            mpp[fruits[r]]++;
+            while(mpp.size()>2){
                 mpp[fruits[l]]--;
-                if ((mpp[fruits[l]]) == 0) {
+                if(mpp[fruits[l]]==0){
                     mpp.erase(fruits[l]);
                 }
                 l++;
             }
-            if (mpp.size() == 2) {
-                maximum = max(maximum, h - l + 1);
-            }
-            h++;
+            cnt=freq(mpp);
+            maxcnt=max(cnt,maxcnt);
+            r++;
         }
-        if (mpp.size() < 2) {
-            return mpp[fruits[l]];
-        }
-        return maximum;
+        return maxcnt;
     }
 };
