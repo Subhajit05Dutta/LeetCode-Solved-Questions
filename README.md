@@ -65,6 +65,7 @@ Here I post my daily LeetCode Solved solutions
 | [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -159,6 +160,7 @@ Here I post my daily LeetCode Solved solutions
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
@@ -349,6 +351,7 @@ Here I post my daily LeetCode Solved solutions
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
@@ -649,6 +652,7 @@ Here I post my daily LeetCode Solved solutions
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
