@@ -1,25 +1,22 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        int n = nums.size();
-        unordered_set<int> st;
-        int large = k;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] % k == 0) {
-                st.insert(nums[i]);
-                large = max(large, nums[i]);
-            }
+        unordered_set<int>st;
+        for(int i:nums){
+            st.insert(i);
         }
-        int smallest = -1;
-        for (int i = k; i <= large; i = i + k) {
-            if (st.find(i) == st.end()) {
-                smallest = i;
+        int ans=k;
+        int n=nums.size();
+        int i=1;
+        while(true){
+            if(st.find(k*i)==st.end()){
                 break;
             }
+            else if(st.find(k*i)!=st.end()){
+                ans=k*i;
+                i++;
+            }
         }
-        if (smallest == -1) {
-            return large + k;
-        }
-        return smallest;
+        return k*i;
     }
 };
