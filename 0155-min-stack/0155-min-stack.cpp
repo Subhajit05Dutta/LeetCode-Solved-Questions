@@ -34,7 +34,9 @@ public:
         }
     }
 
-    int top() { return st.top(); }
+    int top() { 
+        return st.top(); 
+    }
 
     int getMin() { 
         return st1.top(); 
