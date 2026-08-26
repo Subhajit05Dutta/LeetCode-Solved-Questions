@@ -282,6 +282,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
@@ -726,6 +727,7 @@ Here I post my daily LeetCode Solved solutions
 | [0045-jump-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
@@ -791,6 +793,7 @@ Here I post my daily LeetCode Solved solutions
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
