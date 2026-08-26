@@ -822,6 +822,7 @@ Here I post my daily LeetCode Solved solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -943,8 +944,10 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
