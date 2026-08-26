@@ -393,6 +393,7 @@ Here I post my daily LeetCode Solved solutions
 | [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
@@ -818,6 +819,7 @@ Here I post my daily LeetCode Solved solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -924,6 +926,7 @@ Here I post my daily LeetCode Solved solutions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
