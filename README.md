@@ -22,6 +22,7 @@ Here I post my daily LeetCode Solved solutions
 | [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
@@ -244,6 +245,7 @@ Here I post my daily LeetCode Solved solutions
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -728,6 +730,7 @@ Here I post my daily LeetCode Solved solutions
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
