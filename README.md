@@ -91,6 +91,7 @@ Here I post my daily LeetCode Solved solutions
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1436-destination-city](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1539-kth-missing-positive-number) |
@@ -176,6 +177,7 @@ Here I post my daily LeetCode Solved solutions
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -426,6 +428,7 @@ Here I post my daily LeetCode Solved solutions
 | [1154-day-of-the-year](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1154-day-of-the-year) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1436-destination-city](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
