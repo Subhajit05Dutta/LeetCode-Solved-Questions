@@ -27,6 +27,7 @@ Here I post my daily LeetCode Solved solutions
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0135-candy) |
@@ -738,6 +739,7 @@ Here I post my daily LeetCode Solved solutions
 | [0063-unique-paths-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
