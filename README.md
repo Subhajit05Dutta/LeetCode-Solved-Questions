@@ -47,6 +47,7 @@ Here I post my daily LeetCode Solved solutions
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -153,6 +154,7 @@ Here I post my daily LeetCode Solved solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
@@ -832,6 +834,7 @@ Here I post my daily LeetCode Solved solutions
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
@@ -842,6 +845,7 @@ Here I post my daily LeetCode Solved solutions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
