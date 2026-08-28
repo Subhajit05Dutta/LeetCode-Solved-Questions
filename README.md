@@ -87,6 +87,7 @@ Here I post my daily LeetCode Solved solutions
 | [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
@@ -178,6 +179,7 @@ Here I post my daily LeetCode Solved solutions
 | [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
@@ -510,6 +512,7 @@ Here I post my daily LeetCode Solved solutions
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -792,6 +795,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
