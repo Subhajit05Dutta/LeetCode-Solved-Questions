@@ -3,9 +3,7 @@ public:
     string clearDigits(string s) {
         stack<char> st1;
         string ans = "";
-        int flag = 0;
-        int i = 0;
-        for (; i < s.size(); i++) {
+        for (int i = 0; i < s.size(); i++) {
             if (isdigit(s[i])) {
                 if (!st1.empty()) {
                     st1.pop();
