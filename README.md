@@ -83,6 +83,7 @@ Here I post my daily LeetCode Solved solutions
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
@@ -318,6 +319,7 @@ Here I post my daily LeetCode Solved solutions
 | [1175-prime-arrangements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1185-day-of-the-week) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -617,6 +619,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
