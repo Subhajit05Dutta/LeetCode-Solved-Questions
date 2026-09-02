@@ -11,22 +11,14 @@ public:
                 odd++;
             }
         }
+        //It's always doable. return 1
         if(even==n || odd==n){
             return true;
         }
-        vector<int>nums2(n);
-        int i=0;
-        while(nums1[i]%2==0){
-            i++;
-        }
-        for(int j=0;j<n;j++){
-            if(nums1[j]%2==1){
-                continue;
-            }
-            else{
-                nums1[j]=nums1[j]-nums1[i];
-            }
-        }
+        /*
+        If the elements of nums1 are all even or all odd, just set nums2=nums1
+        Otherwise there must exist some odd x in nums1, use z=y-x for all even y in nums1, & z=y for all odd y in nums1 to make all z odd.
+        */
         return true;
     }
 };
