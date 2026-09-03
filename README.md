@@ -43,6 +43,7 @@ Here I post my daily LeetCode Solved solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -614,6 +615,7 @@ Here I post my daily LeetCode Solved solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0704-binary-search) |
@@ -813,6 +815,7 @@ Here I post my daily LeetCode Solved solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
@@ -1068,4 +1071,8 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0322-coin-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
