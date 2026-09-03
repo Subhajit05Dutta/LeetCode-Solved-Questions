@@ -107,6 +107,7 @@ Here I post my daily LeetCode Solved solutions
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1563-stone-game-v) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1652-defuse-the-bomb) |
@@ -548,6 +549,7 @@ Here I post my daily LeetCode Solved solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -623,6 +625,7 @@ Here I post my daily LeetCode Solved solutions
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
