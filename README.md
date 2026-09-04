@@ -454,6 +454,7 @@ Here I post my daily LeetCode Solved solutions
 | [0344-reverse-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
@@ -673,6 +674,7 @@ Here I post my daily LeetCode Solved solutions
 | [0055-jump-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0561-array-partition) |
@@ -923,6 +925,7 @@ Here I post my daily LeetCode Solved solutions
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -938,6 +941,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
