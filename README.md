@@ -28,6 +28,7 @@ Here I post my daily LeetCode Solved solutions
 | [0064-minimum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -235,6 +236,7 @@ Here I post my daily LeetCode Solved solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0101-symmetric-tree) |
@@ -288,6 +290,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -449,6 +452,7 @@ Here I post my daily LeetCode Solved solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
@@ -982,6 +986,7 @@ Here I post my daily LeetCode Solved solutions
 | [0040-combination-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
