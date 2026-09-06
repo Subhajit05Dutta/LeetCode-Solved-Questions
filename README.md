@@ -84,6 +84,7 @@ Here I post my daily LeetCode Solved solutions
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0997-find-the-town-judge) |
@@ -343,6 +344,7 @@ Here I post my daily LeetCode Solved solutions
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1154-day-of-the-year) |
@@ -388,6 +390,7 @@ Here I post my daily LeetCode Solved solutions
 | [0191-number-of-1-bits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -561,6 +564,7 @@ Here I post my daily LeetCode Solved solutions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -714,6 +718,7 @@ Here I post my daily LeetCode Solved solutions
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -864,6 +869,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0593-valid-square) |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
@@ -881,6 +887,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1101,4 +1108,8 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
