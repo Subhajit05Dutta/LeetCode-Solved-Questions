@@ -51,6 +51,7 @@ Here I post my daily LeetCode Solved solutions
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
+| [0406-queue-reconstruction-by-height](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -401,6 +402,7 @@ Here I post my daily LeetCode Solved solutions
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -562,6 +564,7 @@ Here I post my daily LeetCode Solved solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -1127,4 +1130,8 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
