@@ -221,6 +221,7 @@ Here I post my daily LeetCode Solved solutions
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
@@ -432,6 +433,7 @@ Here I post my daily LeetCode Solved solutions
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
@@ -505,6 +507,7 @@ Here I post my daily LeetCode Solved solutions
 | [1694-reformat-phone-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1694-reformat-phone-number) |
 | [1768-merge-strings-alternately](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
@@ -786,6 +789,7 @@ Here I post my daily LeetCode Solved solutions
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
