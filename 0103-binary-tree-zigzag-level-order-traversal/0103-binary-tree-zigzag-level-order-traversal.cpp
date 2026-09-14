@@ -19,14 +19,16 @@ public:
         }
         queue<TreeNode*> q;
         q.push(root);
-        bool LtoR = true;
+        int flag = 0;
         while (!q.empty()) {
-            int size = q.size();
             vector<int> level;
+            int size = q.size();
+
             for (int i = 0; i < size; i++) {
                 TreeNode* node = q.front();
-                q.pop();
                 level.push_back(node->val);
+                q.pop();
+
                 if (node->left != NULL) {
                     q.push(node->left);
                 }
@@ -34,13 +36,14 @@ public:
                     q.push(node->right);
                 }
             }
-            if (LtoR == true) {
+            if (flag == 0) {
                 ans.push_back(level);
+                flag = 1;
             } else {
                 reverse(level.begin(), level.end());
                 ans.push_back(level);
+                flag = 0;
             }
-            LtoR = (!LtoR);
         }
         return ans;
     }
