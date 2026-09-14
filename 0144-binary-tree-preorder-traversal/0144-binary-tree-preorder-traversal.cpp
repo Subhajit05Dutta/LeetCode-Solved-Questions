@@ -12,46 +12,18 @@
  */
 class Solution {
 public:
-// Recursive Approach
- void Preorder_traversal(TreeNode* root,vector<int>&preorder){
-    if(root==NULL){
+    void fun(TreeNode* root, vector<int>& ans) {
+        if (root == NULL) {
+            return;
+        }
+        ans.push_back(root->val);
+        fun(root->left, ans);
+        fun(root->right, ans);
         return;
     }
-    preorder.push_back(root->val);
-    Preorder_traversal(root->left,preorder);
-    Preorder_traversal(root->right,preorder);
-    return;
- }
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> preorder;
-        Preorder_traversal(root, preorder);
-        return preorder;
+        vector<int> ans;
+        fun(root, ans);
+        return ans;
     }
 };
-/*
-    // Iterative Approach
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> preorder;
-        if (root == NULL) {
-            return preorder;
-        }
-        stack<TreeNode*> st;
-        st.push(root);
-        while (!st.empty()) {
-            root = st.top();
-            st.pop();
-            preorder.push_back(root->val);
-            // As Stack is LIFO data structure so we push the right node first,
-            // then the left node.
-            if (root->right != NULL) {
-                st.push(root->right);
-            }
-            if (root->left != NULL) {
-                st.push(root->left);
-            }
-        }
-        return preorder;
-    }
-
-*/
- 
