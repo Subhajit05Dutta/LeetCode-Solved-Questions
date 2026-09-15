@@ -19,11 +19,8 @@ public:
             return false;
         } else if (p->val != q->val) {
             return false;
-        } else if (p->val == q->val) {
-            bool ans1 = isSameTree(p->left, q->left);
-            bool ans2 = isSameTree(p->right, q->right);
-             return ans1 && ans2;
         }
-       return true;
+        return ((p->val == q->val) && isSameTree(p->left, q->left) &&
+                isSameTree(p->right, q->right));
     }
 };
