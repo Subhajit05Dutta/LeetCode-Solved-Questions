@@ -12,23 +12,25 @@
  */
 class Solution {
 public:
-    bool isSame(TreeNode* s, TreeNode* t) {
-        if (s == NULL && t == NULL) {
+    bool same(TreeNode* r1, TreeNode* r2) {
+        if (r1 == NULL && r2 == NULL) {
             return true;
-        } else if (s == NULL || t == NULL) {
+        } else if (r1 == NULL || r2 == NULL) {
             return false;
-        } else if (s->val != t->val) {
+        } else if (r1->val != r2->val) {
             return false;
         }
-        return (isSame(s->left, t->left) && isSame(s->right, t->right));
+        return ((r1->val == r2->val) &&
+                (same(r1->left, r2->left) && same(r1->right, r2->right)));
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if (root == NULL) {
             return false;
         }
-        if (isSame(root, subRoot)) {
+        if (same(root, subRoot)) {
             return true;
         }
+
         return (isSubtree(root->left, subRoot) ||
                 isSubtree(root->right, subRoot));
     }
