@@ -1158,4 +1158,12 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0406-queue-reconstruction-by-height) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
