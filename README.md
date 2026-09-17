@@ -193,6 +193,7 @@ Here I post my daily LeetCode Solved solutions
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -431,6 +432,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
@@ -488,6 +490,7 @@ Here I post my daily LeetCode Solved solutions
 | [0205-isomorphic-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
@@ -1137,6 +1140,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Knapsack Problem
 |  |
 | ------- |
