@@ -201,6 +201,7 @@ Here I post my daily LeetCode Solved solutions
 | [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
@@ -273,6 +274,7 @@ Here I post my daily LeetCode Solved solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -295,6 +297,7 @@ Here I post my daily LeetCode Solved solutions
 | [0112-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
@@ -653,6 +656,7 @@ Here I post my daily LeetCode Solved solutions
 | [0392-is-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
@@ -850,6 +854,7 @@ Here I post my daily LeetCode Solved solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -877,6 +882,7 @@ Here I post my daily LeetCode Solved solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -1033,6 +1039,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Hash Function
