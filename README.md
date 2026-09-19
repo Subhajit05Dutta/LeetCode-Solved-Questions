@@ -388,6 +388,7 @@ Here I post my daily LeetCode Solved solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
@@ -950,6 +951,7 @@ Here I post my daily LeetCode Solved solutions
 | [0593-valid-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Counting Sort
 |  |
 | ------- |
