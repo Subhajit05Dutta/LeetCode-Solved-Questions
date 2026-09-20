@@ -12,23 +12,22 @@
  */
 class Solution {
 public:
-    int dfheight(TreeNode* root) {
+    int fun(TreeNode* root) {
         if (root == NULL) {
             return 0;
         }
-
-        int lf = dfheight(root->left);
-        if (lf == -1)
+        int left = fun(root->left);
+        if (left == -1) {
             return -1;
-
-        int rh = dfheight(root->right);
-        if (rh == -1)
+        }
+        int right = fun(root->right);
+        if (right == -1) {
             return -1;
-
-        if (abs(lf - rh) > 1) {
+        }
+        if (abs(left - right) > 1) {
             return -1;
-        } else
-            return 1+max(lf,rh);
+        }
+        return 1 + max(left, right);
     }
-    bool isBalanced(TreeNode* root) { return dfheight(root) != -1; }
+    bool isBalanced(TreeNode* root) { return fun(root) != -1; }
 };
