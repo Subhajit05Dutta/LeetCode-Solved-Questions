@@ -12,18 +12,15 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root) {
-        if (root == NULL) {
+    int fun(TreeNode* root){
+        if(root==NULL){
             return 0;
         }
-
-        if (root->right == NULL) {
-            return 1 + maxDepth(root->left);
-        }
-        if (root->left == NULL) {
-            return 1 + maxDepth(root->right);
-        }
-
-        return 1 + max(maxDepth(root->left), maxDepth(root->right));
+        int left=fun(root->left);
+        int right=fun(root->right);
+        return 1+max(left,right);
+    }
+    int maxDepth(TreeNode* root) {
+        return fun(root);
     }
 };
