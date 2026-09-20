@@ -308,6 +308,7 @@ Here I post my daily LeetCode Solved solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -873,6 +874,7 @@ Here I post my daily LeetCode Solved solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -903,6 +905,7 @@ Here I post my daily LeetCode Solved solutions
 | [0700-search-in-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
