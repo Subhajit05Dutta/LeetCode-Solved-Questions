@@ -12,20 +12,16 @@
  */
 class Solution {
 public:
-    
-    int minDepth(TreeNode* root) { 
-        if(root==NULL){
-            return NULL;
+    int fun(TreeNode* root) {
+        if (root == NULL) {
+            return 0;
         }
-        // Only right child exists
-        if(root->left==NULL){
-            return 1+minDepth(root->right);
-        }
-        // Only left child exists
-        if(root->right==NULL){
-            return 1+minDepth(root->left);
-        }
-        // Both child exists
-        return 1+min(minDepth(root->left),minDepth(root->right));
+
+        if (root->right == NULL)
+            return 1 + fun(root->left);
+        if (root->left == NULL)
+            return 1 + fun(root->right);
+        return 1 + min(fun(root->left), fun(root->right));
     }
+    int minDepth(TreeNode* root) { return fun(root); }
 };
