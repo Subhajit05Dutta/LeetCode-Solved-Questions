@@ -6,24 +6,30 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-    int dfs(TreeNode* root, int path) {
+    int ans=0;
+    void fun(TreeNode* root,int num,int &ans){
         if(root==NULL){
-            return 0;
+            return;
         }
-        path=path*10+root->val;
-
+        num=num*10+root->val;
         if(root->left==NULL && root->right==NULL){
-            return path;
+            ans+=num;
+           return;
         }
-        return (dfs(root->left,path)+dfs(root->right,path));
+
+        fun(root->left,num,ans);
+        fun(root->right,num,ans);
+       
+        return;
+
     }
     int sumNumbers(TreeNode* root) {
-         return dfs(root, 0); 
+        fun(root,0,ans);
+        return ans;
     }
 };
