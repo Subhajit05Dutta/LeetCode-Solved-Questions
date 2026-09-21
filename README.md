@@ -273,6 +273,7 @@ Here I post my daily LeetCode Solved solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -867,6 +868,7 @@ Here I post my daily LeetCode Solved solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -899,6 +901,7 @@ Here I post my daily LeetCode Solved solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -930,6 +933,7 @@ Here I post my daily LeetCode Solved solutions
 | [0115-distinct-subsequences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -1238,6 +1242,7 @@ Here I post my daily LeetCode Solved solutions
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
