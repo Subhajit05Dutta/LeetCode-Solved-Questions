@@ -1,21 +1,18 @@
 class Solution {
 public:
     void fun(vector<vector<int>>& ans, vector<int>& res, int i, int k, int n) {
-        if (n == 0) {
-            if (res.size() == k) {
+        if(k==0){
+            if(n==0){
                 ans.push_back(res);
             }
             return;
         }
-        if (i <= 9) {
-            // Take
-            res.push_back(i);
-            fun(ans, res, i + 1, k, n - i);
+        if(i<=9){
+        res.push_back(i);
+        fun(ans,res,i+1,k-1,n-i);
+        res.pop_back();
 
-            res.pop_back();
-
-            // Not Take
-            fun(ans, res, i + 1, k, n);
+        fun(ans,res,i+1,k,n);
         }
         return;
     }
