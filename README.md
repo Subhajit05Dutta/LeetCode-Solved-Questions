@@ -128,6 +128,7 @@ Here I post my daily LeetCode Solved solutions
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
@@ -237,6 +238,7 @@ Here I post my daily LeetCode Solved solutions
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -493,6 +495,7 @@ Here I post my daily LeetCode Solved solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -726,6 +729,7 @@ Here I post my daily LeetCode Solved solutions
 | [1539-kth-missing-positive-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -848,6 +852,7 @@ Here I post my daily LeetCode Solved solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
