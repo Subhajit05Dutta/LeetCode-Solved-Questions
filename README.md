@@ -46,6 +46,7 @@ Here I post my daily LeetCode Solved solutions
 | [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -196,6 +197,7 @@ Here I post my daily LeetCode Solved solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -458,6 +460,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -617,6 +620,7 @@ Here I post my daily LeetCode Solved solutions
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1258,4 +1262,5 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
