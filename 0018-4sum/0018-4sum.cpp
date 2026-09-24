@@ -1,43 +1,42 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        sort(nums.begin(),nums.end());
-        int n=nums.size();
-        vector<vector<int>>res;
-        if(n<4){
-            return res;
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        vector<vector<int>> ans;
+        if (nums.size() < 4) {
+            return ans;
         }
-        for(int i=0;i<n-3;i++){
-            if(i>0 && nums[i]==nums[i-1]){
+        for (int i = 0; i < n - 3; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            for(int j=i+1;j<n-2;j++){
-                if(j>i+1 && nums[j]==nums[j-1]){
+            for (int j = i + 1; j < n-2; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
                     continue;
                 }
-                int l=j+1,h=n-1;
-                while(l<h){
-                    long long sum=1LL*nums[i]+nums[j]+nums[l]+nums[h];
-                    if(sum==target){
-                        res.push_back({nums[i],nums[j],nums[l],nums[h]});
+                int l = j + 1;
+                int r = n - 1;
+                while (l < r) {
+                    long long sum =(long long) nums[i] + nums[j] + nums[l] + nums[r];
+                    if (sum == target) {
+                        ans.push_back({nums[i], nums[j], nums[l], nums[r]});
                         l++;
-                        h--;
-                        while(l<h && nums[l]==nums[l-1] ){
+                        r--;
+                        while (l < r && nums[l - 1] == nums[l]) {
                             l++;
                         }
-                        while(l<h && nums[h]==nums[h+1]){
-                            h--;
+                        while (l < r && nums[r] == nums[r + 1]) {
+                            r--;
                         }
-                    }
-                    else if(sum>target){
-                        h--;
-                    }
-                    else if(sum<target){
+                    } else if (sum > target) {
+                        r--;
+                    } else {
                         l++;
                     }
                 }
             }
         }
-        return res;
+        return ans;
     }
 };
