@@ -2,35 +2,18 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int n = nums.size();
-
-        // Find Pivot
-        int pivot = -1;
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] >= nums[i + 1]) {
-                continue;
-            } else {
-                pivot = i;
-                break;
+        int i = n - 2;
+        while (i >= 0 && nums[i] >= nums[i + 1]) {
+            i--;
+        }
+        if (i >= 0) {
+            int k = n - 1;
+            while (nums[k] <= nums[i]) {
+                k--;
             }
+            swap(nums[i], nums[k]);
         }
-
-        // Array is in descending order so we have to reverse it to get the next
-        // permutation
-        if (pivot == -1) {
-            reverse(nums.begin(), nums.end());
-            return;
-        }
-
-        // Find the next greater elemnt than pivot
-        for (int j = n - 1; j > pivot; j--) {
-            if (nums[j] > nums[pivot]) {
-                swap(nums[j], nums[pivot]);
-                break;
-            }
-        }
-
-        reverse(nums.begin() + pivot + 1, nums.end());
-
+        reverse(nums.begin() + i + 1, nums.end());
         return;
     }
 };
