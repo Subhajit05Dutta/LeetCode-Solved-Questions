@@ -30,6 +30,7 @@ Here I post my daily LeetCode Solved solutions
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -618,6 +619,7 @@ Here I post my daily LeetCode Solved solutions
 | [0018-4sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
@@ -675,6 +677,7 @@ Here I post my daily LeetCode Solved solutions
 | [0031-next-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
