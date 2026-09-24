@@ -8,11 +8,12 @@ public:
         while (l < r) {
             lmax = max(lmax, height[l]);
             rmax = max(rmax, height[r]);
-            if (lmax < rmax) {
-                total += (lmax - height[l]);
+            if(lmax<rmax){
+                total+=(lmax-height[l]);
                 l++;
-            } else {
-                total += (rmax - height[r]);
+            }
+            else{
+                total+=(rmax-height[r]);
                 r--;
             }
         }
