@@ -441,6 +441,7 @@ Here I post my daily LeetCode Solved solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0169-majority-element) |
@@ -460,6 +461,7 @@ Here I post my daily LeetCode Solved solutions
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
@@ -811,6 +813,7 @@ Here I post my daily LeetCode Solved solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -1024,6 +1027,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0141-linked-list-cycle) |
@@ -1281,4 +1285,8 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
