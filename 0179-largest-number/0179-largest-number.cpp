@@ -1,16 +1,19 @@
 class Solution {
 public:
-    static bool cmp(string& a, string& b) { return a + b > b + a; }
+    static bool cmp(string& a, string& b) { 
+        return a + b > b + a; 
+    }
     string largestNumber(vector<int>& nums) {
         vector<string> res;
-        for (int& x : nums) {
-            res.push_back(to_string(x));
+        for (int i : nums) {
+            res.push_back(to_string(i));
         }
         sort(res.begin(), res.end(), cmp);
-        if (res[0] == "0")
-            return "0";
         string ans = "";
-        for (string& s : res) {
+        if (res[0] == "0") {
+            return "0";
+        }
+        for (string &s : res) {
             ans += s;
         }
         return ans;
