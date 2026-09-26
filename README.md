@@ -50,6 +50,7 @@ Here I post my daily LeetCode Solved solutions
 | [0216-combination-sum-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
@@ -203,6 +204,7 @@ Here I post my daily LeetCode Solved solutions
 | [0205-isomorphic-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -388,6 +390,7 @@ Here I post my daily LeetCode Solved solutions
 | [0168-excel-sheet-column-title](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0477-total-hamming-distance](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
@@ -609,6 +612,7 @@ Here I post my daily LeetCode Solved solutions
 | [0201-bitwise-and-of-numbers-range](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
 | [0477-total-hamming-distance](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0645-set-mismatch) |
@@ -638,6 +642,7 @@ Here I post my daily LeetCode Solved solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
@@ -736,6 +741,7 @@ Here I post my daily LeetCode Solved solutions
 | [0162-find-peak-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
