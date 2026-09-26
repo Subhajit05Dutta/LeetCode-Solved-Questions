@@ -137,6 +137,7 @@ Here I post my daily LeetCode Solved solutions
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -248,6 +249,7 @@ Here I post my daily LeetCode Solved solutions
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
@@ -568,6 +570,7 @@ Here I post my daily LeetCode Solved solutions
 | [1694-reformat-phone-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1694-reformat-phone-number) |
 | [1768-merge-strings-alternately](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
