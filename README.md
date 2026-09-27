@@ -564,6 +564,7 @@ Here I post my daily LeetCode Solved solutions
 | [1096-brace-expansion-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1436-destination-city) |
@@ -1099,6 +1100,7 @@ Here I post my daily LeetCode Solved solutions
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3174-clear-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3174-clear-digits) |
@@ -1213,6 +1215,7 @@ Here I post my daily LeetCode Solved solutions
 | [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Euclidean Algorithm
 |  |
