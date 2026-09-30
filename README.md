@@ -71,6 +71,7 @@ Here I post my daily LeetCode Solved solutions
 | [0496-next-greater-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -667,6 +668,7 @@ Here I post my daily LeetCode Solved solutions
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -848,6 +850,7 @@ Here I post my daily LeetCode Solved solutions
 | [0347-top-k-frequent-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
