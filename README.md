@@ -272,6 +272,7 @@ Here I post my daily LeetCode Solved solutions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -605,6 +606,7 @@ Here I post my daily LeetCode Solved solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3174-clear-digits) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3340-check-balanced-string) |
