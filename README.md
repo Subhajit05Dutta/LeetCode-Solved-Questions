@@ -400,6 +400,7 @@ Here I post my daily LeetCode Solved solutions
 | [0168-excel-sheet-column-title](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
