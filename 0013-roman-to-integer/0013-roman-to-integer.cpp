@@ -8,10 +8,7 @@ public:
         int ans = 0;
         int i = 0;
         while (i < n) {
-            if (i == n) {
-                ans = ans + mpp[s[i]];
-                i++;
-            } else if (mpp[s[i]] < mpp[s[i + 1]]) {
+            if (i + 1 < n && mpp[s[i]] < mpp[s[i + 1]]) {
                 ans = ans + (mpp[s[i + 1]] - mpp[s[i]]);
                 i = i + 2;
             } else {
