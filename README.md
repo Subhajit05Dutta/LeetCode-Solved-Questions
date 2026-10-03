@@ -1260,10 +1260,12 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
