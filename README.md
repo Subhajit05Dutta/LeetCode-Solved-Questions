@@ -543,6 +543,7 @@ Here I post my daily LeetCode Solved solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
@@ -990,6 +991,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
@@ -1109,6 +1111,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1245,6 +1248,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
