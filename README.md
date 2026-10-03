@@ -88,6 +88,7 @@ Here I post my daily LeetCode Solved solutions
 | [0735-asteroid-collision](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0860-lemonade-change) |
@@ -574,6 +575,7 @@ Here I post my daily LeetCode Solved solutions
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0917-reverse-only-letters) |
@@ -740,6 +742,7 @@ Here I post my daily LeetCode Solved solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0876-middle-of-the-linked-list) |
