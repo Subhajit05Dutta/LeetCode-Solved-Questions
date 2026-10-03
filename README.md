@@ -560,6 +560,7 @@ Here I post my daily LeetCode Solved solutions
 | [0394-decode-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
