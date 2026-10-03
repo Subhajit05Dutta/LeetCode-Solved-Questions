@@ -408,6 +408,7 @@ Here I post my daily LeetCode Solved solutions
 | [0477-total-hamming-distance](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
 | [0593-valid-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -562,6 +563,7 @@ Here I post my daily LeetCode Solved solutions
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -807,6 +809,7 @@ Here I post my daily LeetCode Solved solutions
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
