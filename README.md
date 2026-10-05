@@ -905,6 +905,7 @@ Here I post my daily LeetCode Solved solutions
 | [1407-top-travellers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1407-top-travellers) |
 | [1661-average-time-of-process-per-machine](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1683-invalid-tweets) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Sliding Window
 |  |
