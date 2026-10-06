@@ -581,6 +581,7 @@ Here I post my daily LeetCode Solved solutions
 | [0856-score-of-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -847,6 +848,7 @@ Here I post my daily LeetCode Solved solutions
 | [0680-valid-palindrome-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1146,6 +1148,7 @@ Here I post my daily LeetCode Solved solutions
 | [0735-asteroid-collision](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1096-brace-expansion-ii) |
@@ -1269,6 +1272,7 @@ Here I post my daily LeetCode Solved solutions
 | [0032-longest-valid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
