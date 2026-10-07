@@ -333,6 +333,7 @@ Here I post my daily LeetCode Solved solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
@@ -557,6 +558,7 @@ Here I post my daily LeetCode Solved solutions
 | [0179-largest-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0389-find-the-difference) |
@@ -1210,6 +1212,7 @@ Here I post my daily LeetCode Solved solutions
 | [0090-subsets-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
