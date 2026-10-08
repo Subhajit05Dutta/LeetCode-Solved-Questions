@@ -109,6 +109,7 @@ Here I post my daily LeetCode Solved solutions
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1207-unique-number-of-occurrences) |
@@ -249,6 +250,7 @@ Here I post my daily LeetCode Solved solutions
 | [1096-brace-expansion-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -510,6 +512,7 @@ Here I post my daily LeetCode Solved solutions
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1189-maximum-number-of-balloons](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
