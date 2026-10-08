@@ -407,6 +407,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0070-climbing-stairs) |
