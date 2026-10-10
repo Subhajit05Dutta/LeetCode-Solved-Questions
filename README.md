@@ -163,6 +163,7 @@ Here I post my daily LeetCode Solved solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
@@ -728,6 +729,7 @@ Here I post my daily LeetCode Solved solutions
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -820,6 +822,7 @@ Here I post my daily LeetCode Solved solutions
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -883,6 +886,7 @@ Here I post my daily LeetCode Solved solutions
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2938-separate-black-and-white-balls](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -905,6 +909,7 @@ Here I post my daily LeetCode Solved solutions
 | [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
