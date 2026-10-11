@@ -942,6 +942,7 @@ Here I post my daily LeetCode Solved solutions
 | [1148-article-views-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1280-students-and-examinations) |
 | [1407-top-travellers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1407-top-travellers) |
+| [1587-bank-account-summary-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1587-bank-account-summary-ii) |
 | [1661-average-time-of-process-per-machine](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1683-invalid-tweets) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1741-find-total-time-spent-by-each-employee) |
