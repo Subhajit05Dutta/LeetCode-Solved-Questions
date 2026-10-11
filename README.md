@@ -81,6 +81,7 @@ Here I post my daily LeetCode Solved solutions
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0704-binary-search) |
@@ -956,6 +957,7 @@ Here I post my daily LeetCode Solved solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
