@@ -178,6 +178,7 @@ Here I post my daily LeetCode Solved solutions
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2678-number-of-senior-citizens](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -651,6 +652,7 @@ Here I post my daily LeetCode Solved solutions
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2678-number-of-senior-citizens](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
