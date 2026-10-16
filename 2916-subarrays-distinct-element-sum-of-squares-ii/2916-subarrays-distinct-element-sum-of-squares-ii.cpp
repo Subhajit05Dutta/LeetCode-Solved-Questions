@@ -17,9 +17,8 @@ public:
             long long gain =
                 (long long)(r - p) * (r - p) - 2 * (s - p * c); // at most 1e10
             ans = (ans + (n - r) * gain) % MOD;
-            for (int i = n - p; i <= n;
-                 i +=
-                 i & -i) // insert p; p = -1 lands past the end and is skipped
+            for (int i = n - p; i <= n; i += i & -i)
+                // insert p; p = -1 lands past the end and is skipped
                 cnt[i]++, tot[i] += p;
             last[nums[r]] = r;
         }
