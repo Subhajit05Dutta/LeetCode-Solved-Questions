@@ -167,6 +167,7 @@ Here I post my daily LeetCode Solved solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2029-stone-game-ix) |
+| [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -297,6 +298,7 @@ Here I post my daily LeetCode Solved solutions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
@@ -722,6 +724,7 @@ Here I post my daily LeetCode Solved solutions
 | [1009-complement-of-base-10-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
