@@ -200,6 +200,7 @@ Here I post my daily LeetCode Solved solutions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -493,6 +494,7 @@ Here I post my daily LeetCode Solved solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
