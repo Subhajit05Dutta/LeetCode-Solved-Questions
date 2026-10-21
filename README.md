@@ -170,6 +170,7 @@ Here I post my daily LeetCode Solved solutions
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2029-stone-game-ix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
+| [2057-smallest-index-with-equal-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
