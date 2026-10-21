@@ -177,6 +177,7 @@ Here I post my daily LeetCode Solved solutions
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -305,6 +306,7 @@ Here I post my daily LeetCode Solved solutions
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
@@ -791,6 +793,7 @@ Here I post my daily LeetCode Solved solutions
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
@@ -925,6 +928,7 @@ Here I post my daily LeetCode Solved solutions
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
