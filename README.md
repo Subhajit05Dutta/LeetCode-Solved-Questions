@@ -180,6 +180,7 @@ Here I post my daily LeetCode Solved solutions
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
@@ -312,6 +313,7 @@ Here I post my daily LeetCode Solved solutions
 | [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
