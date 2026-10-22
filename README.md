@@ -207,6 +207,7 @@ Here I post my daily LeetCode Solved solutions
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -803,6 +804,7 @@ Here I post my daily LeetCode Solved solutions
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -857,6 +859,7 @@ Here I post my daily LeetCode Solved solutions
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2938-separate-black-and-white-balls](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2938-separate-black-and-white-balls) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
