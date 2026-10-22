@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        unordered_set< int> mp1;
-        unordered_set< int> mp2;
+        unordered_set<int> mp1;
+        unordered_set<int> mp2;
         for (int i : nums1) {
             mp1.insert(i);
         }
