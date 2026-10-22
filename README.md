@@ -213,6 +213,7 @@ Here I post my daily LeetCode Solved solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -589,6 +590,7 @@ Here I post my daily LeetCode Solved solutions
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3467-transform-array-by-parity) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -809,6 +811,7 @@ Here I post my daily LeetCode Solved solutions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3467-transform-array-by-parity](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
