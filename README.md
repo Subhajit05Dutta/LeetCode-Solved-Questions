@@ -228,6 +228,7 @@ Here I post my daily LeetCode Solved solutions
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
@@ -335,6 +336,7 @@ Here I post my daily LeetCode Solved solutions
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
@@ -592,6 +594,7 @@ Here I post my daily LeetCode Solved solutions
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3467-transform-array-by-parity) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
