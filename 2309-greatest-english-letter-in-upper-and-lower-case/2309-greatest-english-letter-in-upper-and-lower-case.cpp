@@ -5,7 +5,7 @@ public:
         unordered_set<char> st;
         for (int i = 0; i < s.size(); i++) {
             if (islower(s[i])) {
-                if (st.find(toupper(s[i])) != st.end()){
+                if (st.find(toupper(s[i])) != st.end()) {
                     temp[toupper(s[i]) - 'A']++;
                 }
             }
@@ -18,7 +18,7 @@ public:
         }
         for (int i = 25; i >= 0; i--) {
             if (temp[i] != 0) {
-                return string(1,'A' + i);
+                return string(1, 'A' + i);
             }
         }
         return "";
