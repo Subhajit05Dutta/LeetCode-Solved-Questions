@@ -184,6 +184,7 @@ Here I post my daily LeetCode Solved solutions
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
@@ -319,6 +320,7 @@ Here I post my daily LeetCode Solved solutions
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
@@ -596,6 +598,7 @@ Here I post my daily LeetCode Solved solutions
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
