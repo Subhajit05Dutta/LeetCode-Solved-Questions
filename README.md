@@ -181,6 +181,7 @@ Here I post my daily LeetCode Solved solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
@@ -315,6 +316,7 @@ Here I post my daily LeetCode Solved solutions
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
@@ -590,6 +592,7 @@ Here I post my daily LeetCode Solved solutions
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
@@ -807,6 +810,7 @@ Here I post my daily LeetCode Solved solutions
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
