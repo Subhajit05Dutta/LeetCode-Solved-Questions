@@ -514,6 +514,7 @@ Here I post my daily LeetCode Solved solutions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2029-stone-game-ix) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [2409-count-days-spent-together](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2652-sum-multiples) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -713,6 +714,7 @@ Here I post my daily LeetCode Solved solutions
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2409-count-days-spent-together](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
