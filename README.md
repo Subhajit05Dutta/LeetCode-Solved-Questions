@@ -180,6 +180,7 @@ Here I post my daily LeetCode Solved solutions
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -883,6 +884,7 @@ Here I post my daily LeetCode Solved solutions
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
