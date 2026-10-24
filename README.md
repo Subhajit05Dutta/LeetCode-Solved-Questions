@@ -190,6 +190,7 @@ Here I post my daily LeetCode Solved solutions
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [2399-check-distances-between-same-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -328,6 +329,7 @@ Here I post my daily LeetCode Solved solutions
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [2364-count-number-of-bad-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [2399-check-distances-between-same-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -720,6 +722,7 @@ Here I post my daily LeetCode Solved solutions
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2399-check-distances-between-same-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
