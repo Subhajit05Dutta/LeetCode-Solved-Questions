@@ -193,6 +193,7 @@ Here I post my daily LeetCode Solved solutions
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -889,6 +890,7 @@ Here I post my daily LeetCode Solved solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2938-separate-black-and-white-balls](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2938-separate-black-and-white-balls) |
@@ -968,6 +970,7 @@ Here I post my daily LeetCode Solved solutions
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
