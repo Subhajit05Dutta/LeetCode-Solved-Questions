@@ -10,6 +10,8 @@ public:
                 cnt++;
             } else if (ruleKey == "name" && ruleValue == items[i][2]) {
                 cnt++;
+            } else {
+                continue;
             }
         }
         return cnt;
