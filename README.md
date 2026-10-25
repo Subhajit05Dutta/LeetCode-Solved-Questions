@@ -197,6 +197,7 @@ Here I post my daily LeetCode Solved solutions
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2460-apply-operations-to-an-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -451,6 +452,7 @@ Here I post my daily LeetCode Solved solutions
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2965-find-missing-and-repeated-values) |
@@ -990,6 +992,7 @@ Here I post my daily LeetCode Solved solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2460-apply-operations-to-an-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
