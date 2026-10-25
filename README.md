@@ -156,6 +156,7 @@ Here I post my daily LeetCode Solved solutions
 | [1748-sum-of-unique-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1773-count-items-matching-a-rule) |
+| [1792-maximum-average-pass-ratio](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1816-truncate-sentence) |
@@ -1023,6 +1024,7 @@ Here I post my daily LeetCode Solved solutions
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1792-maximum-average-pass-ratio](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
@@ -1056,6 +1058,7 @@ Here I post my daily LeetCode Solved solutions
 | [0973-k-closest-points-to-origin](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
+| [1792-maximum-average-pass-ratio](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1792-maximum-average-pass-ratio) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
