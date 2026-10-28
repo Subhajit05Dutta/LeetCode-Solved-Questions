@@ -227,6 +227,7 @@ Here I post my daily LeetCode Solved solutions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
