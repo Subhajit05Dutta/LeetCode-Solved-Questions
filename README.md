@@ -563,6 +563,7 @@ Here I post my daily LeetCode Solved solutions
 | [1563-stone-game-v](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1872-stone-game-viii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
@@ -766,6 +767,7 @@ Here I post my daily LeetCode Solved solutions
 | [1773-count-items-matching-a-rule](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
