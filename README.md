@@ -775,6 +775,7 @@ Here I post my daily LeetCode Solved solutions
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
