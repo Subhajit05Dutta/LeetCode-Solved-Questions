@@ -177,6 +177,7 @@ Here I post my daily LeetCode Solved solutions
 | [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2057-smallest-index-with-equal-value) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -345,6 +346,7 @@ Here I post my daily LeetCode Solved solutions
 | [1980-find-unique-binary-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2032-two-out-of-three) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -657,6 +659,7 @@ Here I post my daily LeetCode Solved solutions
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2029-stone-game-ix) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -780,6 +783,7 @@ Here I post my daily LeetCode Solved solutions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
