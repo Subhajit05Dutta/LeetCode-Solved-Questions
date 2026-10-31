@@ -6,7 +6,7 @@ public:
             mp[i]++;
         }
         vector<int> ans;
-        while (mp.size() > 0) {
+        while (!mp.empty()) {
             for (auto& it : mp) {
                 ans.push_back(it.first);
                 it.second--;
