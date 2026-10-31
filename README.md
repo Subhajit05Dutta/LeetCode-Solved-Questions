@@ -395,6 +395,7 @@ Here I post my daily LeetCode Solved solutions
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3945-digit-frequency-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3945-digit-frequency-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -606,6 +607,7 @@ Here I post my daily LeetCode Solved solutions
 | [3875-construct-uniform-parity-array-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3886-sum-of-sortable-integers) |
+| [3945-digit-frequency-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
 | ------- |
