@@ -238,6 +238,7 @@ Here I post my daily LeetCode Solved solutions
 | [3131-find-the-integer-added-to-array-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -588,6 +589,7 @@ Here I post my daily LeetCode Solved solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
