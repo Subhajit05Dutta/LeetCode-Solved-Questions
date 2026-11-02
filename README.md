@@ -66,6 +66,7 @@ Here I post my daily LeetCode Solved solutions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
@@ -544,6 +545,7 @@ Here I post my daily LeetCode Solved solutions
 | [0268-missing-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0509-fibonacci-number) |
@@ -890,6 +892,7 @@ Here I post my daily LeetCode Solved solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0561-array-partition) |
