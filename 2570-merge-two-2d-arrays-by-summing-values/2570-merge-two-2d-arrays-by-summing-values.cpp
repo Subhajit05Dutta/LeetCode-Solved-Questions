@@ -17,11 +17,11 @@ public:
                 j++;
             }
         }
-        while(i<nums1.size()){
+        while (i < nums1.size()) {
             ans.push_back(nums1[i]);
             i++;
         }
-        while(j<nums2.size()){
+        while (j < nums2.size()) {
             ans.push_back(nums2[j]);
             j++;
         }
