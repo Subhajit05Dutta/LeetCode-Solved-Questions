@@ -216,6 +216,7 @@ Here I post my daily LeetCode Solved solutions
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -1096,6 +1097,7 @@ Here I post my daily LeetCode Solved solutions
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3174-clear-digits) |
@@ -1165,6 +1167,7 @@ Here I post my daily LeetCode Solved solutions
 | [1882-process-tasks-using-servers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
