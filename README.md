@@ -217,6 +217,7 @@ Here I post my daily LeetCode Solved solutions
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -380,6 +381,7 @@ Here I post my daily LeetCode Solved solutions
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2747-count-zero-request-servers) |
@@ -1010,6 +1012,7 @@ Here I post my daily LeetCode Solved solutions
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2938-separate-black-and-white-balls](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2938-separate-black-and-white-balls) |
