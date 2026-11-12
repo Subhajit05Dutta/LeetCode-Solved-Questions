@@ -242,6 +242,7 @@ Here I post my daily LeetCode Solved solutions
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
