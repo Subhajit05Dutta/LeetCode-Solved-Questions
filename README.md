@@ -145,6 +145,7 @@ Here I post my daily LeetCode Solved solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1534-count-good-triplets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1563-stone-game-v) |
@@ -597,6 +598,7 @@ Here I post my daily LeetCode Solved solutions
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -732,6 +734,7 @@ Here I post my daily LeetCode Solved solutions
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1872-stone-game-viii) |
@@ -1363,6 +1366,7 @@ Here I post my daily LeetCode Solved solutions
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
