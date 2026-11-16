@@ -835,6 +835,7 @@ Here I post my daily LeetCode Solved solutions
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2399-check-distances-between-same-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2399-check-distances-between-same-letters) |
@@ -1111,6 +1112,7 @@ Here I post my daily LeetCode Solved solutions
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2460-apply-operations-to-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
