@@ -849,6 +849,7 @@ Here I post my daily LeetCode Solved solutions
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2938-separate-black-and-white-balls](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1031,6 +1032,7 @@ Here I post my daily LeetCode Solved solutions
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2938-separate-black-and-white-balls](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2938-separate-black-and-white-balls) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1376,6 +1378,7 @@ Here I post my daily LeetCode Solved solutions
 | [1872-stone-game-viii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
