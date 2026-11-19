@@ -295,6 +295,7 @@ Here I post my daily LeetCode Solved solutions
 | [3903-smallest-stable-index-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
@@ -982,6 +983,7 @@ Here I post my daily LeetCode Solved solutions
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3886-sum-of-sortable-integers) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
@@ -1041,6 +1043,7 @@ Here I post my daily LeetCode Solved solutions
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -1176,6 +1179,7 @@ Here I post my daily LeetCode Solved solutions
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
