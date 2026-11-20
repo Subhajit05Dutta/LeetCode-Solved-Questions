@@ -885,6 +885,7 @@ Here I post my daily LeetCode Solved solutions
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3931-check-adjacent-digit-differences) |
@@ -1059,6 +1060,7 @@ Here I post my daily LeetCode Solved solutions
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
 |  |
