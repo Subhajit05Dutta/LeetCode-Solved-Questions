@@ -825,6 +825,7 @@ Here I post my daily LeetCode Solved solutions
 | [1816-truncate-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
