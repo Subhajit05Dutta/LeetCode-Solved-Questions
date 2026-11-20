@@ -885,6 +885,7 @@ Here I post my daily LeetCode Solved solutions
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3856-trim-trailing-vowels](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3856-trim-trailing-vowels) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
