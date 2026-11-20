@@ -7,7 +7,6 @@ public:
         }
         int total = 0;
         for (auto& it : mpp) {
-
             if (isdigit(it.first)) {
                 total += 3;
             } else if (isupper(it.first)) {
