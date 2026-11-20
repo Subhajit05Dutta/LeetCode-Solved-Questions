@@ -883,6 +883,7 @@ Here I post my daily LeetCode Solved solutions
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3931-check-adjacent-digit-differences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3931-check-adjacent-digit-differences) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
