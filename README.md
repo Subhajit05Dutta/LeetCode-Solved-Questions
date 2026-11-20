@@ -296,6 +296,7 @@ Here I post my daily LeetCode Solved solutions
 | [3886-sum-of-sortable-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3904-smallest-stable-index-ii) |
+| [3921-score-validator](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3921-score-validator) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -885,6 +886,7 @@ Here I post my daily LeetCode Solved solutions
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3931-check-adjacent-digit-differences) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
@@ -1148,6 +1150,7 @@ Here I post my daily LeetCode Solved solutions
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
+| [3921-score-validator](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3921-score-validator) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
