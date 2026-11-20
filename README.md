@@ -834,6 +834,7 @@ Here I post my daily LeetCode Solved solutions
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2109-adding-spaces-to-a-string) |
@@ -1027,6 +1028,7 @@ Here I post my daily LeetCode Solved solutions
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1507,6 +1509,7 @@ Here I post my daily LeetCode Solved solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [3174-clear-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3174-clear-digits) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
