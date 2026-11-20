@@ -647,6 +647,7 @@ Here I post my daily LeetCode Solved solutions
 | [3875-construct-uniform-parity-array-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3886-sum-of-sortable-integers) |
+| [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3945-digit-frequency-score) |
 ## Divide and Conquer
 |  |
@@ -883,6 +884,7 @@ Here I post my daily LeetCode Solved solutions
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3931-check-adjacent-digit-differences) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
@@ -1145,6 +1147,7 @@ Here I post my daily LeetCode Solved solutions
 | [3174-clear-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
