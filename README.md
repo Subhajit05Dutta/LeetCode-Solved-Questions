@@ -861,6 +861,7 @@ Here I post my daily LeetCode Solved solutions
 | [2278-percentage-of-letter-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2315-count-asterisks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2315-count-asterisks) |
 | [2399-check-distances-between-same-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
