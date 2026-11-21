@@ -843,6 +843,7 @@ Here I post my daily LeetCode Solved solutions
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1144,6 +1145,7 @@ Here I post my daily LeetCode Solved solutions
 | [1441-build-an-array-with-stack-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2109-adding-spaces-to-a-string) |
