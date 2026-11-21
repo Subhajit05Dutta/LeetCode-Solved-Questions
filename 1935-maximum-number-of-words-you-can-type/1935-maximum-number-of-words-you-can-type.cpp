@@ -14,7 +14,7 @@ public:
                 }
                 i++;
             }
-            if (con) {
+            if (con==true) {
                 cnt += 1;
             }
         }
