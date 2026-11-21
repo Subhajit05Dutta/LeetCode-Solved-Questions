@@ -372,6 +372,7 @@ Here I post my daily LeetCode Solved solutions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -840,6 +841,7 @@ Here I post my daily LeetCode Solved solutions
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
