@@ -834,6 +834,7 @@ Here I post my daily LeetCode Solved solutions
 | [1816-truncate-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1903-largest-odd-number-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -976,6 +977,7 @@ Here I post my daily LeetCode Solved solutions
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1859-sorting-the-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -1753,6 +1755,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
+| [1859-sorting-the-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
 ## Tournament Sort
 |  |
 | ------- |
