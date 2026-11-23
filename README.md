@@ -91,6 +91,7 @@ Here I post my daily LeetCode Solved solutions
 | [0733-flood-fill](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
+| [0804-unique-morse-code-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0832-flipping-an-image) |
@@ -336,6 +337,7 @@ Here I post my daily LeetCode Solved solutions
 | [0748-shortest-completing-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0748-shortest-completing-word) |
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
@@ -801,6 +803,7 @@ Here I post my daily LeetCode Solved solutions
 | [0767-reorganize-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
