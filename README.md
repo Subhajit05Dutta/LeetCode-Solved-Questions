@@ -393,6 +393,7 @@ Here I post my daily LeetCode Solved solutions
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2325-decode-the-message](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2325-decode-the-message) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
@@ -883,6 +884,7 @@ Here I post my daily LeetCode Solved solutions
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2315-count-asterisks) |
+| [2325-decode-the-message](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2325-decode-the-message) |
 | [2399-check-distances-between-same-letters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2399-check-distances-between-same-letters) |
 | [2409-count-days-spent-together](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2418-sort-the-people) |
