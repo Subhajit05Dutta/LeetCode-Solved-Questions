@@ -197,6 +197,7 @@ Here I post my daily LeetCode Solved solutions
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -867,6 +868,7 @@ Here I post my daily LeetCode Solved solutions
 | [2109-adding-spaces-to-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2278-percentage-of-letter-in-string) |
@@ -1521,6 +1523,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
