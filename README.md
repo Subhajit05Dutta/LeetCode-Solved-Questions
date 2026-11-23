@@ -132,6 +132,7 @@ Here I post my daily LeetCode Solved solutions
 | [1331-rank-transform-of-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -605,6 +606,7 @@ Here I post my daily LeetCode Solved solutions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1510-stone-game-iv) |
@@ -746,6 +748,7 @@ Here I post my daily LeetCode Solved solutions
 | [1004-max-consecutive-ones-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1691,6 +1694,7 @@ Here I post my daily LeetCode Solved solutions
 | [0155-min-stack](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -1774,4 +1778,8 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
