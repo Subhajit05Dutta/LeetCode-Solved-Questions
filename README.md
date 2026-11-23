@@ -202,6 +202,7 @@ Here I post my daily LeetCode Solved solutions
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -871,6 +872,7 @@ Here I post my daily LeetCode Solved solutions
 | [2185-counting-words-with-a-given-prefix](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
