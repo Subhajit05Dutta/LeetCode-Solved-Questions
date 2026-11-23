@@ -189,6 +189,7 @@ Here I post my daily LeetCode Solved solutions
 | [2085-count-common-words-with-one-occurrence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -862,6 +863,7 @@ Here I post my daily LeetCode Solved solutions
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -1065,6 +1067,7 @@ Here I post my daily LeetCode Solved solutions
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
