@@ -227,6 +227,7 @@ Here I post my daily LeetCode Solved solutions
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
@@ -733,6 +734,7 @@ Here I post my daily LeetCode Solved solutions
 | [2404-most-frequent-even-element](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -883,6 +885,7 @@ Here I post my daily LeetCode Solved solutions
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2785-sort-vowels-in-a-string) |
