@@ -306,6 +306,7 @@ Here I post my daily LeetCode Solved solutions
 | [3903-smallest-stable-index-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3921-score-validator) |
+| [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -438,6 +439,7 @@ Here I post my daily LeetCode Solved solutions
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3945-digit-frequency-score) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -1145,6 +1147,7 @@ Here I post my daily LeetCode Solved solutions
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -1599,6 +1602,7 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -1811,4 +1815,12 @@ Here I post my daily LeetCode Solved solutions
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
