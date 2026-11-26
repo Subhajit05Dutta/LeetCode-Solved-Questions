@@ -242,6 +242,7 @@ Here I post my daily LeetCode Solved solutions
 | [2798-number-of-employees-who-met-the-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2848-points-that-intersect-with-cars](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2848-points-that-intersect-with-cars) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -417,6 +418,7 @@ Here I post my daily LeetCode Solved solutions
 | [2716-minimize-string-length](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2747-count-zero-request-servers) |
+| [2848-points-that-intersect-with-cars](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2848-points-that-intersect-with-cars) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -779,6 +781,7 @@ Here I post my daily LeetCode Solved solutions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2848-points-that-intersect-with-cars](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2848-points-that-intersect-with-cars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
