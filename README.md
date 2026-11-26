@@ -302,6 +302,7 @@ Here I post my daily LeetCode Solved solutions
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -1056,6 +1057,7 @@ Here I post my daily LeetCode Solved solutions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3886-sum-of-sortable-integers) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
