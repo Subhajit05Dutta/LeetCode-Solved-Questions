@@ -9,12 +9,13 @@ public:
         for (int i = n - 1; i >= 0; i--) {
             mp1[nums[i]]++;
         }
-        for (int i = 0; i < n; i++) {
 
+        for (int i = 0; i < n; i++) {
             mp1[nums[i]]--;
             if (mp1[nums[i]] == 0) {
                 mp1.erase(nums[i]);
             }
+            // Add current element to prefix
             mp2[nums[i]]++;
             int pre = mp2.size();
             int suff = mp1.size();
