@@ -304,6 +304,7 @@ Here I post my daily LeetCode Solved solutions
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3842-toggle-light-bulbs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -450,6 +451,7 @@ Here I post my daily LeetCode Solved solutions
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3842-toggle-light-bulbs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
 | [3941-password-strength](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3945-digit-frequency-score) |
@@ -1058,6 +1060,7 @@ Here I post my daily LeetCode Solved solutions
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3886-sum-of-sortable-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3886-sum-of-sortable-integers) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -1216,6 +1219,7 @@ Here I post my daily LeetCode Solved solutions
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
+| [3842-toggle-light-bulbs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3894-traffic-signal-color](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3921-score-validator) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
