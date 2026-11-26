@@ -398,6 +398,7 @@ Here I post my daily LeetCode Solved solutions
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2325-decode-the-message) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
@@ -1271,6 +1272,7 @@ Here I post my daily LeetCode Solved solutions
 | [1792-maximum-average-pass-ratio](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1792-maximum-average-pass-ratio) |
 | [1882-process-tasks-using-servers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1346,6 +1348,7 @@ Here I post my daily LeetCode Solved solutions
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2363-merge-similar-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2363-merge-similar-items) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
@@ -1734,6 +1737,7 @@ Here I post my daily LeetCode Solved solutions
 | [0225-implement-stack-using-queues](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
