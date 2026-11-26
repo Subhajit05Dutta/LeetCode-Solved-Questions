@@ -235,6 +235,7 @@ Here I post my daily LeetCode Solved solutions
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2670-find-the-distinct-difference-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2747-count-zero-request-servers) |
@@ -415,6 +416,7 @@ Here I post my daily LeetCode Solved solutions
 | [2506-count-pairs-of-similar-strings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2670-find-the-distinct-difference-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2670-find-the-distinct-difference-array) |
 | [2716-minimize-string-length](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/2747-count-zero-request-servers) |
