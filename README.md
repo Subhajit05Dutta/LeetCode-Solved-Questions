@@ -154,6 +154,7 @@ Here I post my daily LeetCode Solved solutions
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1631-path-with-minimum-effort](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1652-defuse-the-bomb) |
@@ -1034,6 +1035,7 @@ Here I post my daily LeetCode Solved solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1859-sorting-the-sentence) |
