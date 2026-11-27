@@ -294,6 +294,7 @@ Here I post my daily LeetCode Solved solutions
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3665-twisted-mirror-path-count) |
+| [3668-restore-finishing-order](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3668-restore-finishing-order) |
 | [3693-climbing-stairs-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -448,6 +449,7 @@ Here I post my daily LeetCode Solved solutions
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3668-restore-finishing-order](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
