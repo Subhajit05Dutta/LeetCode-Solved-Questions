@@ -318,6 +318,7 @@ Here I post my daily LeetCode Solved solutions
 | [3934-smallest-unique-subarray](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
@@ -1073,6 +1074,7 @@ Here I post my daily LeetCode Solved solutions
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3886-sum-of-sortable-integers](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
@@ -1282,6 +1284,7 @@ Here I post my daily LeetCode Solved solutions
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
@@ -1309,6 +1312,7 @@ Here I post my daily LeetCode Solved solutions
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Shortest Path
