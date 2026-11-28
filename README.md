@@ -865,6 +865,7 @@ Here I post my daily LeetCode Solved solutions
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-increasing-decreasing-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1370-increasing-decreasing-string) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1436-destination-city](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1436-destination-city) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Subhajit05Dutta/LeetCode-Solved-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
